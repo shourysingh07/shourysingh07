@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQG9d7yuYXMtnw/profile-displaybackgroundimage-shrink_350_1400/0/1708863973778?e=1726704000&v=beta&t=R0boAwf2LqkxFznuKIDNbDMVs55fxOKb4MGzbOkXr6k)
 <h1 align="center">Hi 👋, I'm Shoury Singh</h1>
 <h3 align="center">A passionate DSA enthusiast and MERN developer</h3>
 <img align="right" alt="Coding" width="250" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1721293747~exp=1721294347~hmac=812245741d34e0c6647a82f9bbf3cd8c8e49d6cf60e7141a66a79e4721cbb3ac">
