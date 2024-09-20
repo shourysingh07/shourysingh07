@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/user-attachments/assets/9c2c997d-401f-4f5c-aa15-d4f98fbdd6bf)
 <h1 align="center">Hi 👋, I'm Shoury Singh</h1>
 <h3 align="center">A passionate DSA enthusiast and MERN developer</h3>
 <img align="right" alt="Coding" width="250" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1721293747~exp=1721294347~hmac=812245741d34e0c6647a82f9bbf3cd8c8e49d6cf60e7141a66a79e4721cbb3ac">
